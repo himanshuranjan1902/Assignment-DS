@@ -1,2 +1,2 @@
-# FinalAssignment-JupyterNotebook
-IBM_DataScience
+# Assignment Repository for IBM Data Science
+
